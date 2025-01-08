@@ -15,6 +15,7 @@ body:
   - type: textarea
     id: descricao
     attributes:
+      label: Descrição
       description: |
         Descreva seu Issue com o maior número de detalhes possíveis.
         Liste também, caso haja, todas as atividades e/ou correções necessárias antes do fechamento do Issue.
